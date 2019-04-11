@@ -1,0 +1,116 @@
+D:\New folder\Z and Z\Inventory\Core\bin\Release\Core.dll.config
+D:\New folder\Z and Z\Inventory\Core\bin\Release\Core.dll
+D:\New folder\Z and Z\Inventory\Core\bin\Release\Core.pdb
+D:\New folder\Z and Z\Inventory\Core\bin\Release\Domain.dll
+D:\New folder\Z and Z\Inventory\Core\bin\Release\EntityFramework.dll
+D:\New folder\Z and Z\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+D:\New folder\Z and Z\Inventory\Core\bin\Release\Domain.pdb
+D:\New folder\Z and Z\Inventory\Core\bin\Release\Domain.dll.config
+D:\New folder\Z and Z\Inventory\Core\bin\Release\EntityFramework.xml
+D:\New folder\Z and Z\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+D:\New folder\Z and Z\Inventory\Core\obj\Release\Core.csprojAssemblyReference.cache
+D:\New folder\Z and Z\Inventory\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+D:\New folder\Z and Z\Inventory\Core\obj\Release\Core.csproj.CopyComplete
+D:\New folder\Z and Z\Inventory\Core\obj\Release\Core.dll
+D:\New folder\Z and Z\Inventory\Core\obj\Release\Core.pdb
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\Core.dll.config
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\Core.dll
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\Core.pdb
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\Domain.dll
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\Domain.pdb
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\Domain.dll.config
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\Project\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Project\Inventory\Core\obj\Release\Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Inventory\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Inventory\Core\obj\Release\Core.csproj.CopyComplete
+C:\Users\User\Desktop\Project\Inventory\Core\obj\Release\Core.dll
+C:\Users\User\Desktop\Project\Inventory\Core\obj\Release\Core.pdb
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\Core.dll.config
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\Core.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\Core.pdb
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\Domain.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\Domain.pdb
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\Domain.dll.config
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.xml
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\obj\Release\Core.csprojAssemblyReference.cache
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\obj\Release\Core.csproj.CopyComplete
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\obj\Release\Core.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Core\obj\Release\Core.pdb
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\Core.dll.config
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\Core.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\Core.pdb
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\Domain.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\Domain.pdb
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\Domain.dll.config
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.xml
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\obj\Release\Core.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Core\obj\Release\Core.pdb
+D:\Shakil Personal\30.03.19\Inventory\Core\obj\Release\Core.csprojAssemblyReference.cache
+D:\Shakil Personal\30.03.19\Inventory\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+D:\Shakil Personal\30.03.19\Inventory\Core\obj\Release\Core.dll
+D:\Shakil Personal\30.03.19\Inventory\Core\obj\Release\Core.pdb
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\Core.dll.config
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\Core.dll
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\Core.pdb
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\Domain.dll
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\EntityFramework.dll
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\Domain.pdb
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\Domain.dll.config
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\EntityFramework.xml
+D:\Shakil Personal\30.03.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Shakil Personal\30.03.19\Inventory\Core\obj\Release\Core.csproj.CopyComplete
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\Core.dll.config
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\Core.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\Core.pdb
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\Domain.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\Domain.pdb
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\Domain.dll.config
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.xml
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\obj\Release\Core.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Core\obj\Release\Core.pdb
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\Core.dll.config
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\Core.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\Core.pdb
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\Domain.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\Domain.pdb
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\Domain.dll.config
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\31.03.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\31.03.19\Inventory\Core\obj\Release\Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\31.03.19\Inventory\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\31.03.19\Inventory\Core\obj\Release\Core.csproj.CopyComplete
+C:\Users\User\Desktop\31.03.19\Inventory\Core\obj\Release\Core.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Core\obj\Release\Core.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\Core.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\Core.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\Core.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\Domain.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\Domain.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\Domain.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Release\Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Release\Core.csproj.CopyComplete
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Release\Core.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Release\Core.pdb

@@ -1,0 +1,133 @@
+﻿@model IEnumerable<Domain.ViewModels.ItemViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+    <table class="table table-responsive table-bordered table-hover">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ItemId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubCategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubSubCategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubSubSubCategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubSubSubSubCategoryName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.BrandName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.ModelName)
+            </th>
+
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.UnitName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Height)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Width)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Weight)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Image)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubCategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubSubCategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubSubSubCategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubSubSubSubCategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ModelName)
+            </td>
+
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Height)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Width)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+
+            <td>
+                @if (item.Product_Image != null)
+                {
+                    <img src="@Url.Content(item.Product_Image)" height="70" width="70" />
+
+                }
+
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ItemId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ItemId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ItemId })
+            </td>
+        </tr>
+        }
+
+    </table>

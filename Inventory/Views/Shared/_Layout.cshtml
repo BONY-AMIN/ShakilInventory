@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @*<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>*@
+    <script src="~/Scripts/dfdfd.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css">
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Gender", "Index", "Gender")</li>
+                    <li>@Html.ActionLink("Country", "Index", "Country")</li>
+                    <li>@Html.ActionLink("Principle", "Index", "Principle")</li>
+                    <li>@Html.ActionLink("District", "Index", "District")</li>
+                    <li>@Html.ActionLink("Religion", "Index", "Religion")</li>
+                    <li>@Html.ActionLink("Company", "Index", "Company")</li>
+                    <li>@Html.ActionLink("Division", "Index", "Division")</li>
+                
+
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+
+
+    <div class="sidemenu">
+
+        <ul class="nav nav-list" style="margin-bottom:100px;">
+
+            <li>@Html.ActionLink("Nationality", "Index", "Nationality")</li>
+            <li>@Html.ActionLink("State", "Index", "State")</li>
+            <li>@Html.ActionLink("Province", "Index", "Province")</li>
+            <li>@Html.ActionLink("Category", "Index", "Category")</li>
+            <li>@Html.ActionLink("SubCategory", "Index", "SubCategory")</li>
+            <li>@Html.ActionLink("SubSubCategory", "Index", "SubSubCategory")</li>
+            <li>@Html.ActionLink("SubSubSubCategory", "Index", "SubSubSubCategory")</li>
+            <li>@Html.ActionLink("SubSubSubSubCategory", "Index", "SubSubSubSubCategory")</li>
+            <li>@Html.ActionLink("Festival", "Index", "Festival")</li>
+            <li>@Html.ActionLink("Brand", "Index", "Brand")</li>
+            <li>@Html.ActionLink("Model", "Index", "Model")</li>
+            <li>@Html.ActionLink("ConditionOfItem", "Index", "ConditionOfItem")</li>
+            <li>@Html.ActionLink("MaritalStatus", "Index", "MaritalStatus")</li>
+            <li>@Html.ActionLink("Celebration", "Index", "Celebration")</li>
+            <li>@Html.ActionLink("BloodGroup", "Index", "BloodGroup")</li>
+            <li>@Html.ActionLink("EducationQualification", "Index", "EducationQualification")</li>
+            <li>@Html.ActionLink("EmailProvider", "Index", "EmailProvider")</li>
+            <li>@Html.ActionLink("Hobby", "Index", "Hobby")</li>
+            <li>@Html.ActionLink("Language", "Index", "Language")</li>
+            <li>@Html.ActionLink("PhoneProvider", "Index", "PhoneProvider")</li>
+            <li>@Html.ActionLink("ProcurementType", "Index", "ProcurementType")</li>
+            <li>@Html.ActionLink("ProfessionInformation", "Index", "ProfessionInformation")</li>
+            <li>@Html.ActionLink("Role", "Index", "Role")</li>
+            <li>@Html.ActionLink("Season", "Index", "Season")</li>
+            <li>@Html.ActionLink("Store", "Index", "Store")</li>
+            <li>@Html.ActionLink("SubContractCompany", "Index", "SubContractCompany")</li>
+            <li>@Html.ActionLink("SubStore", "Index", "SubStore")</li>
+            <li>@Html.ActionLink("SubSubStore", "Index", "SubSubStore")</li>
+            <li>@Html.ActionLink("SubSubSubStore", "Index", "SubSubSubStore")</li>
+            <li>@Html.ActionLink("SubSubSubSubStore", "Index", "SubSubSubSubStore")</li>
+            <li>@Html.ActionLink("SupplierCompany", "Index", "SupplierCompany")</li>
+            <li>@Html.ActionLink("Unit", "Index", "Unit")</li>
+            <li>@Html.ActionLink("Upazila", "Index", "Upazila")</li>
+            <li>@Html.ActionLink("Warranty", "Index", "Warranty")</li>
+            <li>@Html.ActionLink("Weather", "Index", "Weather")</li>
+            <li>@Html.ActionLink("PostOffice", "Index", "PostOffice")</li>
+            <li>@Html.ActionLink("PoliceStation", "Index", "PoliceStation")</li>
+            <li>@Html.ActionLink("Profile", "Index", "Profile")</li>
+            <li>@Html.ActionLink("Region", "Index", "Region")</li>
+            <li>@Html.ActionLink("Item", "Index", "Item")</li>
+            <li>@Html.ActionLink("ItemElement", "Index", "ItemElement")</li>
+            <li>@Html.ActionLink("Production", "Index", "RawMaterials")</li>
+            <li>@Html.ActionLink("Procurement", "Create", "Procurement")</li>
+
+
+
+
+
+
+        </ul>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+       </div>
+
+    
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

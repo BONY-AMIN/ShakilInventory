@@ -1,0 +1,199 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+.card-1 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+    .card-1:hover {
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    }
+
+.card-2 {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.card-3 {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card-4 {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card-5 {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+
+.bgdefault {
+    background-color:#E6E6E6;
+}
+
+.mt {
+
+    margin-top:50px;
+}
+
+.mbp {
+    margin-bottom:20px;
+}
+
+.mb {
+    margin-bottom:5px;
+}
+
+@media screen and (max-width: 350px) {
+    .bottom {
+        margin-bottom: 10px;
+    }
+}
+
+
+
+.sidemenu {
+    position: fixed;
+    width: 150px;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    float: left;
+    z-index: 1003;
+    background-color: rgba(0,0,0,0.12);
+  
+    background-image: url('../img/IMGI.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .7;
+    color: white;
+}
+
+    .sidemenu li > a {
+        border:1px solid #ccc;
+        color: white;
+    }
+
+    .sidemenu li > a:hover {
+        color: red;
+        background-color:aqua;
+    }
+
+        .sidemenu li > a:active {
+            color: white;
+            background-color: blue;
+        }
+
+        
+
+
+
+
+    .searchContainer {
+        display: inline-flex;
+        position: relative;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        overflow: hidden;
+        float: right;
+        width:195px;
+    }
+
+.searchIcon {
+    padding: 0.5rem;
+}
+
+.searchBox {
+    border: 0;
+    padding: 0.5rem 0.5rem 0.5rem .5rem;
+    /*flex: .5;*/
+    width:138px;
+}
+
+.searchButton {
+    background: #538AC5;
+    border: 0;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0;
+}
+
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+    .btn-file input[type=file] {
+        position: absolute;
+        top: 0;
+        right: 0;
+        min-width: 100%;
+        min-height: 100%;
+        font-size: 100px;
+        text-align: right;
+        filter: alpha(opacity=0);
+        opacity: 0;
+        outline: none;
+        background: white;
+        cursor: inherit;
+        display: block;
+    }
+
+#img-upload {
+    width: 100%;
+}
+
+
+
+
+
+
+@media (min-width: 1000px) {
+    #exampleFormControlTextarea1 {
+        margin-left: 27px;
+    }
+}
+
+
+
+@media (max-width: 999px) {
+    #exampleFormControlTextarea1 {
+        margin-left: 0px;
+    }
+
+
+    #MarginBottom {
+        margin-bottom: 10px;
+    }
+}
+
+.fontsize {
+
+    font-size:11px;
+
+}

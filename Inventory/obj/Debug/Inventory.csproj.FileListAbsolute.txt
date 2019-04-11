@@ -1,0 +1,343 @@
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Inventory.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\csc.exe
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\csi.exe
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Core.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Domain.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Owin.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Core.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Core.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Domain.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Domain.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Inventory\obj\Debug\Inventory.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Inventory.dll.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Inventory.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Inventory.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\csc.exe
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\csc.exe.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\csc.rsp
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\csi.exe
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\csi.exe.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\csi.rsp
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.AppContext.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Collections.Immutable.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Console.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.IO.Compression.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.IO.FileSystem.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.IO.Pipes.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Reflection.Metadata.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.AccessControl.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.Claims.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.ValueTuple.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XPath.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\vbc.exe
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\vbc.exe.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\vbc.rsp
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\VBCSCompiler.exe
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\roslyn\VBCSCompiler.exe.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Antlr3.Runtime.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Core.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Domain.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\EntityFramework.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Google.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Newtonsoft.Json.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Owin.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Diagnostics.DiagnosticSource.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Helpers.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Mvc.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Optimization.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Razor.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.WebPages.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\WebGrease.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Core.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Core.dll.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Domain.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Domain.dll.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Helpers.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Mvc.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Optimization.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.Razor.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.WebPages.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Newtonsoft.Json.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\EntityFramework.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Google.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\System.Diagnostics.DiagnosticSource.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\obj\Debug\Inventory.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Inventory\obj\Debug\Inventory.pdb
+F:\Personal\09.04.19\Inventory\Inventory\bin\Inventory.dll.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\Inventory.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Inventory.pdb
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\csc.exe
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\csc.exe.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\csc.rsp
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\csi.exe
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\csi.exe.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\csi.rsp
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.AppContext.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Collections.Immutable.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Console.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.IO.Compression.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.IO.FileSystem.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.IO.Pipes.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Reflection.Metadata.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.AccessControl.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.Claims.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.ValueTuple.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XPath.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\vbc.exe
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\vbc.exe.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\vbc.rsp
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\VBCSCompiler.exe
+F:\Personal\09.04.19\Inventory\Inventory\bin\roslyn\VBCSCompiler.exe.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\Antlr3.Runtime.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Core.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Domain.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\EntityFramework.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Google.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Newtonsoft.Json.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Owin.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Helpers.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Mvc.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Optimization.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Razor.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.WebPages.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\WebGrease.dll
+F:\Personal\09.04.19\Inventory\Inventory\bin\Core.pdb
+F:\Personal\09.04.19\Inventory\Inventory\bin\Core.dll.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\Domain.pdb
+F:\Personal\09.04.19\Inventory\Inventory\bin\Domain.dll.config
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Helpers.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Mvc.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Optimization.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.Razor.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.WebPages.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Newtonsoft.Json.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+F:\Personal\09.04.19\Inventory\Inventory\bin\EntityFramework.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Google.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Personal\09.04.19\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Personal\09.04.19\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+F:\Personal\09.04.19\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+F:\Personal\09.04.19\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+F:\Personal\09.04.19\Inventory\Inventory\obj\Debug\Inventory.dll
+F:\Personal\09.04.19\Inventory\Inventory\obj\Debug\Inventory.pdb

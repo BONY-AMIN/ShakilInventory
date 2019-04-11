@@ -1,0 +1,848 @@
+﻿@model Domain.ViewModels.ProcurementViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm("Create", "Procurement", FormMethod.Post, new { enctype = "multipart/form-data", encoding = "multipart/form-data", @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="container" style="margin-top:20px;">
+        <div class="row" style="margin-bottom:20px;">
+            <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                <div class="panel panel-default" style="margin-bottom:0px;">
+                    <div class="panel-heading">
+
+                        <div class="panel-title">Supplier Company Name</div>
+
+                    </div>
+
+                    <div class="panel-body">
+
+
+
+
+
+                        <div class="row">
+
+
+
+                            <div class="col-md-4">
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.ProcurementTypeName, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.DropDownListFor(a => a.ProcurementTypeId, ViewBag.ProcurementTypeList as SelectList, "Please Select Your Gender", new { @class = "form-control", @autofocus = true })
+                                        @Html.ValidationMessageFor(model => model.ProcurementTypeId, "", new { @class = "text-danger" })
+                                    </div>
+                                  
+                                </div>
+
+
+                            </div>
+
+
+                            <div class="col-md-4">
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.SupplierCompanyName, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.DropDownListFor(a => a.SupplierCompanyId, ViewBag.SuplierCompanyList as SelectList, "Please Select Your Gender", new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.SupplierCompanyId, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                            <div class="col-md-4">
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.MobileNumber, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.TextBoxFor(m => m.MobileNumber, new { @class = "form-control", @placeholder = "Enter Phone Number" })
+                                        @Html.ValidationMessageFor(model => model.MobileNumber, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+
+
+
+                            <div class="col-md-4">
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.PurchaseDate, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.EditorFor(model => model.PurchaseDate, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+                                        @Html.ValidationMessageFor(model => model.PurchaseDate, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+
+                            <div class="col-md-4">
+
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.SupplierName, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.EditorFor(model => model.SupplierName, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(model => model.SupplierName, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                            <div class="col-md-4">
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.SupplierCompanyAddress, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.EditorFor(model => model.SupplierCompanyAddress, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(model => model.SupplierCompanyAddress, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                            
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">
+
+                                <div class="form-group">
+
+                                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                    <div class="col-md-7  col-sm-12">
+                                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "Enter Phone Number" })
+                                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                        </div> 
+
+
+                        @*<input type="button" value="Save" id="btnsave" class="submit_button btn btn-lg btn-primary" />*@
+
+
+
+
+
+
+
+                    </div>
+
+
+
+
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="row" style="margin-bottom:20px;">
+
+            <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12 pull-left">
+
+
+                <div class="table-responsive">
+                    <table class="table table-bordered table-striped table-custom">
+                        <thead class="bgdefault">
+                            <tr>
+                                <th>
+                                    <input type="checkbox" class="allBomGridCheck">
+                                </th>
+
+                                <th class="fontsize">Item Name</th>
+                                <th class="fontsize" style="display:none">Category Name</th>
+                                <th class="fontsize" style="display:none">SubCategory Name</th>
+                                <th class="fontsize" style="display:none">SubSubCategory Name</th>
+                                <th class="fontsize" style="display:none">SubSubSubCategory Name</th>
+                                <th class="fontsize" style="display:none">SubSubSubSubCategory Name</th>
+                                <th class="fontsize" style="display:none">Brand Name</th>
+                                <th class="fontsize" style="display:none">Model Name</th>
+                                <th class="fontsize">Transaction Quantity</th>
+                                <th class="fontsize">Unit</th>
+                                <th class="fontsize">Purchease Item Price</th>
+                                <th class="fontsize">SubTotalPrice</th>
+
+
+
+                            </tr>
+                        </thead>
+                        <tbody class="BomGridContent" id="bomBody">
+
+
+                            <tr class="BomGridFields">
+                                <td>
+                                    <input type="checkbox" class="singleBomGridCheck">
+                                </td>
+
+                                <td>
+
+
+                                    @Html.DropDownListFor(a => a.ArrayItemId, ViewBag.Itemlist as SelectList, "Please Select Item Name", new { @class = "form-control col-md-3 col-sm-12" })
+                                    @Html.ValidationMessageFor(model => model.ArrayItemId, "", new { @class = "text-danger" })
+
+
+                                </td>
+                                <td style="display:none">
+
+
+
+                                    @Html.DropDownListFor(a => a.ArrayCategoryId, ViewBag.categorylist as SelectList, "Please Select Category Id", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.CategoryId, "", new { @class = "text-danger" })
+
+
+                                </td>
+                                <td style="display:none">
+                                    @Html.DropDownListFor(a => a.ArraySubCategoryId, ViewBag.subCategorylist as SelectList, "Please Select SubCategory Name", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ArraySubCategoryId, "", new { @class = "text-danger" })
+                                </td>
+                                <td style="display:none">
+                                    @Html.DropDownListFor(a => a.ArraySubSubCategoryId, ViewBag.subSubCategoryList as SelectList, "Please Select SubSubCategory Name", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ArraySubSubCategoryId, "", new { @class = "text-danger" })
+                                </td>
+                                <td style="display:none">
+                                    @Html.DropDownListFor(a => a.ArraySubSubSubCategoryId, ViewBag.subSubSubCategoryList as SelectList, "Please Select SubSubSubCategoryName", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ArraySubSubSubCategoryId, "", new { @class = "text-danger" })
+                                </td>
+                                <td style="display:none">
+
+                                    @Html.DropDownListFor(a => a.ArraySubSubSubSubCategoryId, ViewBag.SubSubSubSubCategoryList as SelectList, "Please Select SubSubSubSubCategory Name", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ArraySubSubSubSubCategoryId, "", new { @class = "text-danger" })
+
+                                </td>
+                                <td style="display:none">
+
+                                    @Html.DropDownListFor(a => a.ArrayBrandId, ViewBag.BrandList as SelectList, "Please Select Brand ", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.BrandId, "", new { @class = "text-danger" })
+
+                                </td>
+                                <td style="display:none">
+
+                                    @Html.DropDownListFor(a => a.ArrayModelId, ViewBag.ModelList as SelectList, "Please Select Model Name", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ModelId, "", new { @class = "text-danger" })
+                                </td>
+
+                                <td>
+                                    @Html.TextBoxFor(m => m.ArrayPO_QTD, new { @class = "form-control", @placeholder = "Enter Item Purchase Price" })
+                                    @Html.ValidationMessageFor(model => model.ArrayPO_QTD, "", new { @class = "text-danger" })
+                                </td>
+                                <td>
+
+                                    @Html.DropDownListFor(a => a.ArrayUnitId, ViewBag.UnitList as SelectList, "Please Select Model Name", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ArrayUnitId, "", new { @class = "text-danger" })
+
+                                </td>
+                                <td>
+                                    @Html.TextBoxFor(m => m.ArrayPO_Price, new { @class = "form-control", @placeholder = "Enter Item Purchase Price" })
+                                    @Html.ValidationMessageFor(model => model.ArrayPO_Price, "", new { @class = "text-danger" })
+                                </td>
+
+                                <td>
+                                    @Html.TextBoxFor(m => m.ArrayPO_SubTotal, new { @class = "form-control", @placeholder = "Enter Item Purchase Price" })
+                                 
+                                </td>
+
+
+
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+
+            </div>
+
+
+            <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+
+
+                <div class="row" style="padding-left:0px;padding-right:0px;">
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+
+                                <div class="panel-title">Procurement Header</div>
+
+                            </div>
+                            <div class="panel-body" style="padding-left:0px;padding-right:0px;">
+
+                                <div class="col-md-6">
+
+
+                                    <div class="form-group">
+
+                                        @Html.LabelFor(model => model.PO_TOTAL_AMT, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                        <div class="col-md-7  col-sm-12">
+                                            @Html.EditorFor(model => model.PO_TOTAL_AMT, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.PO_TOTAL_AMT, "", new { @class = "text-danger" })
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+
+                                    <div class="form-group">
+
+                                        @Html.LabelFor(model => model.PO_DIS_RATE, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                        <div class="col-md-7  col-sm-12">
+                                            @Html.EditorFor(model => model.PO_DIS_RATE, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.PO_DIS_RATE, "", new { @class = "text-danger"})
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+
+                                    <div class="form-group">
+
+                                        @Html.LabelFor(model => model.PO_DIS_AMT, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                        <div class="col-md-7  col-sm-12">
+                                            @Html.EditorFor(model => model.PO_DIS_AMT, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.PO_DIS_AMT, "", new { @class = "text-danger" })
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+
+                                    <div class="form-group">
+
+                                        @Html.LabelFor(model => model.PO_Tax_Rate, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                        <div class="col-md-7  col-sm-12">
+                                            @Html.EditorFor(model => model.PO_Tax_Rate, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.PO_Tax_Rate, "", new { @class = "text-danger" })
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+
+                                    <div class="form-group">
+
+                                        @Html.LabelFor(model => model.PO_Tax_AMT, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                        <div class="col-md-7  col-sm-12">
+                                            @Html.EditorFor(model => model.PO_Tax_AMT, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.PO_Tax_AMT, "", new { @class = "text-danger" })
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+
+
+                                <div class="col-md-6">
+
+
+                                    <div class="form-group">
+
+                                        @Html.LabelFor(model => model.PO_GRAND_TOTAL, htmlAttributes: new { @class = "control-label col-md-5 fontsize" })
+                                        <div class="col-md-7  col-sm-12">
+                                            @Html.EditorFor(model => model.PO_GRAND_TOTAL, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.PO_GRAND_TOTAL, "", new { @class = "text-danger" })
+
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+
+
+                            </div>
+
+
+
+                        </div>
+
+                    </div>
+
+
+
+
+                    
+
+
+
+
+                </div>
+
+
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+    <div class="col-md-6 col-md-offset-3" style="margin-top:15px;">
+        <div class="row">
+
+
+
+            <div class="btn-group">
+                <button class="btn btn-md btn-success btn-save addBomGridBtn" type="button">
+                    <i class="fa fa-plus"></i> Add Row
+                </button>
+                <button class="btn btn-md btn-danger btn-save deleteBomGridBtn" type="button" disabled="disabled">
+                    <i class="fa fa-minus"></i> Delete Row
+                </button>
+
+
+                <button class="btn btn-md btn-primary btn-save" type="submit">
+                    <i class="fa fa-save"></i> Save
+                </button>
+
+
+                <a href="@Url.Action("","")" class="btn btn-md btn-warning btn-clear">
+                    <i class="fa fa-circle-o-notch"></i> Clear
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+}
+<label id="la"></label>
+
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+
+        $(document).ready(function () {
+
+
+            $('#ArrayItemId').change(function () {
+                $('#ArrayCategoryId').empty();
+                $('#ArraySubCategoryId').empty();
+                $('#ArraySubSubCategoryId').empty();
+                $('#ArraySubSubSubCategoryId').empty();
+                $('#ArraySubSubSubSubCategoryId').empty();
+                $('#ArrayBrandId').empty();
+                $('#ArrayModelId').empty();
+                $('#ArrayUnitId').empty();
+
+
+
+               
+
+                var vUnitId = $('#ArrayItemId').val();
+                console.log(vUnitId);
+                if (vUnitId) {
+                    $.ajax({
+                        type: "Get",
+                        url: '@Url.Action("GETAll", "Procurement")',
+                        data: {
+                            //__RequestVerificationToken: vToken,
+                            ItemId: vUnitId
+                        },
+
+                        success: function (data) {
+                            //$("#SubCategoryId").empty().append('<option>Please select Your SubCategory</option>')
+                            $.each(data, function (key, value) {
+                                $("#ArrayCategoryId").append('<option value=' + value.CategoryId + '>' + value.CategoryName + '</option>');
+                                $("#ArraySubCategoryId").append('<option value=' + value.SubCategoryId + '>' + value.SubCategoryName + '</option>');
+                                $("#ArraySubSubCategoryId").append('<option value=' + value.SubSubCategoryId + '>' + value.SubSubCategoryName + '</option>');
+                                $("#ArraySubSubSubCategoryId").append('<option value=' + value.SubSubSubCategoryId + '>' + value.SubSubSubCategoryName + '</option>');
+                                $("#ArraySubSubSubSubCategoryId").append('<option value=' + value.SubSubSubSubCategoryId + '>' + value.SubSubSubSubCategoryName + '</option>');
+                                $("#ArrayBrandId").append('<option value=' + value.BrandId + '>' + value.BrandName + '</option>');
+                                $("#ArrayModelId").append('<option value=' + value.ModelId + '>' + value.ModelName + '</option>');
+                                $("#ArrayUnitId").append('<option value=' + value.UnitId + '>' + value.UnitName + '</option>');
+                            });
+                        }
+                    });
+                }
+            });
+
+
+
+            $('#SupplierCompanyId').change(function () {
+                $('#MobileNumber').empty();
+                $('#SupplierName').empty();
+                $('#SupplierCompanyAddress').empty();
+                $('#Email').empty();
+            
+
+
+
+
+
+                var vUnitId = $('#SupplierCompanyId').val();
+
+                if (vUnitId) {
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GETAll", "SupplierCompany")',
+                        data: {
+                            //__RequestVerificationToken: vToken,
+                            SupplierCompanyId: vUnitId
+                        },
+
+                        success: function (data) {
+                            //$("#SubCategoryId").empty().append('<option>Please select Your SubCategory</option>')
+                            $.each(data, function (key, value) {
+                                alert(value.SupplierCompanyAddress);
+                                $("#MobileNumber").val(value.MobileNumber);
+                                $("#SupplierCompanyAddress").val(value.SupplierCompanyAddress);
+                                $("#SupplierName").val(value.SupplierName);
+                                $("#Email").val(value.Email);
+                            
+                            });
+                        }
+                    });
+                }
+            });
+
+
+
+
+
+
+
+        });
+
+
+        $("#ArrayPO_Price").keyup(function () {
+            var POPrice = $('#ArrayPO_Price').val();
+            var PoQty = $('#ArrayPO_QTD').val();
+            if (PoQty == 0) {
+
+                PoQty = 0;
+
+            }
+
+            if (POPrice == 0) {
+                POPrice = 0;
+            }
+
+            var subtotal = POPrice * PoQty;
+            $("#ArrayPO_SubTotal").val(subtotal);
+
+            $("#PO_TOTAL_AMT").val(subtotal);
+
+        });
+
+
+
+        $("#ArrayPO_QTD").keyup(function () {
+            var POPrice = $('#ArrayPO_Price').val();
+            var PoQty = $('#ArrayPO_QTD').val();
+            if (PoQty == 0) {
+
+                PoQty = 0;
+
+            }
+
+            if (POPrice == 0) {
+
+                POPrice = 0
+
+
+            }
+
+            var subtotal = POPrice * PoQty;
+            $("#ArrayPO_SubTotal").val(subtotal);
+
+            $("#PO_TOTAL_AMT").val(subtotal);
+
+
+        });
+
+
+
+
+        $("#PO_DIS_RATE").keyup(function () {
+            //alert(jQuery('#PO_DIS_RATE').val().length);
+            var POTotalPrice = $("#PO_TOTAL_AMT").val();
+            var PoDiscountRate = $("#PO_DIS_RATE").val();
+
+            var count = $("#PO_DIS_RATE").val().length;
+            if (count > 3 && PoDiscountRate > 100) {
+                
+               
+            }
+
+
+            if (PoDiscountRate > 100) {
+
+
+                $("#PO_DIS_RATE").attr("disabled", true);
+
+                $("#PO_DIS_RATE").val("");
+                $("#PO_DIS_RATE").attr("disabled", false);
+
+                $("#PO_DIS_AMT").val(0);
+
+                return false;
+
+            }
+
+           
+           
+            if (POTotalPrice == 0) {
+
+                $("#PO_DIS_AMT").val("");
+
+            }
+
+            else {
+
+                var DiscountAmount = (POTotalPrice * PoDiscountRate )/ 100 ;
+
+
+                $("#PO_DIS_AMT").val(DiscountAmount);
+
+
+            }
+
+           
+
+
+        });
+
+
+        $("#PO_Tax_Rate").keyup(function () {
+            //alert(jQuery('#PO_DIS_RATE').val().length);
+            var taxrate = $("#PO_Tax_Rate").val();
+            var POTotalPrice = $("#PO_TOTAL_AMT").val();
+            var PoDiscountRate = $("#PO_DIS_RATE").val();
+            var PoDiscountAmount = $("#PO_DIS_AMT").val();
+            var TaxAmount = $("#PO_Tax_AMT").val();
+
+            if (taxrate == 0) {
+                taxrate = 0;
+
+            }
+            if (POTotalPrice == 0) {
+                POTotalPrice = 0;
+
+            }
+
+
+            if (PoDiscountRate == 0) {
+                PoDiscountRate = 0;
+
+            }
+
+            if (PoDiscountAmount == 0) {
+                PoDiscountAmount = 0;
+
+            }
+
+            //Tax Amount Find
+            var subtotal = POTotalPrice - PoDiscountAmount;
+
+            var taxamount = (subtotal * taxrate) / 100;
+
+            $("#PO_Tax_AMT").val(taxamount);
+
+            //total Price
+
+            var totalPrice = subtotal + taxamount; 
+
+            $("#PO_GRAND_TOTAL").val(totalPrice);
+
+
+
+
+            //if (count > 3 && PoDiscountRate > 100) {
+
+
+            //}
+
+
+            //if (PoDiscountRate > 100) {
+
+
+            //    $("#PO_DIS_RATE").attr("disabled", true);
+
+            //    $("#PO_DIS_RATE").val("");
+            //    $("#PO_DIS_RATE").attr("disabled", false);
+
+            //    $("#PO_DIS_AMT").val(0);
+
+            //    return false;
+
+            //}
+
+
+
+            //if (POTotalPrice == 0) {
+
+            //    $("#PO_DIS_AMT").val("");
+
+            //}
+
+            //else {
+
+            //    var DiscountAmount = (POTotalPrice * PoDiscountRate) / 100;
+
+
+            //    $("#PO_DIS_AMT").val(DiscountAmount);
+
+
+            //}
+
+
+
+
+        });
+
+
+
+
+            $(document).on('click', '.addBomGridBtn', function () {
+                var markUp = $('.BomGridFields:eq( 0 )').clone();
+                $('.BomGridContent').append(markUp).find(".BomGridFields:eq( -1 ) input[type='text'] ,.BomGridFields:eq( -1 ) select option:contains('Please select one')").val('').prop('selected', true);
+                var rowNumber = $('#bomBody tr').length;
+                $('#RowNumber').val(rowNumber);
+               
+        });
+
+
+               $(document).on('click', '.deleteBomGridBtn', function () {
+
+            if (confirm('Are you sure to delete this record?') == true) {
+                var tranId = ($('.BomGridContent input:checkbox:checked').map(function () { return this.value; }).get().join(','));
+                var ProductName = $('#ProductName').val();
+                var CategoryId = $("#CategoryId option:selected").val();
+                var ProductPrice = $('#ProductPrice').val();
+                $('.BomGridContent input:checkbox:checked').each(function () {
+
+                    if ($('.allBomGridCheck').is(':checked')) {
+
+                        var oldValue = $(this).parents('.BomGridFields').find('.BomGridFields:eq( -1 ) input[type="text"]').val();
+                        $(this).parents('.BomGridContent').find('.BomGridFields:gt( 0 )').remove();
+                        $('input[type="checkbox"]').prop('checked', false);
+                    } else {
+
+                        var oldValue = $(this).parents('.BomGridFields').find('.BomGridFields:eq( -1 ) input[type="text"]').val();
+                        $(this).parents('.BomGridFields').remove();
+                        $(this).parents('.BomGridContent').find('.BomGridFields:gt( 0 )').remove();
+                    }
+                });
+                $.ajax({
+                    url: '/Product/Delete',
+                    type: 'POST',
+                    data: {
+                        'GridTranId': tranId,
+                        'ProductName': ProductName,
+                        'CategoryId': CategoryId,
+                        'ProductPrice': ProductPrice
+
+                    },
+                    success: function (result) {
+
+                        $('.alert-danger').show();
+                        $('.success-msg').text(result);
+
+                        if (result === "All DATA DELETED!!!") {
+                            window.setTimeout(function () {
+                                window.location.href = '@Url.Action("Create", "Product")';
+                            }, 1200);
+                        }
+                    }
+                });
+                return;
+            }
+        });
+        //Row select or check
+        $(document).on('click', '.allBomGridCheck', function () {
+            if (this.checked) {
+                $('.BomGridContent input:checkbox').prop('checked', true);
+            }
+            else {
+                $('.BomGridContent input:checkbox').prop('checked', false);
+            }
+        });
+        $(document).on('click', '.singleBomGridCheck', function () {
+            if ($('.singleBomGridCheck:checked').length == $('.singleBomGridCheck').length) {
+                $('.allBomGridCheck:checkbox').prop('checked', true);
+            } else {
+                $('.allBomGridCheck:checkbox').prop('checked', false);
+            }
+        });
+        //Enable or Disable Delete Button
+        $(document).on('click', '.allBomGridCheck, .singleBomGridCheck', function (event) {
+            if ($(event.target).is(':checked')) {
+                $('.deleteBomGridBtn').prop('disabled', false);
+            }
+            if ($('.singleBomGridCheck').length == $('.singleBomGridCheck:checkbox:not(":checked")').length) {
+                $('.deleteBomGridBtn').prop('disabled', true);
+            }
+        });
+    </script>
+}

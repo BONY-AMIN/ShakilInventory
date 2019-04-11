@@ -1,0 +1,190 @@
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Domain.dll.config
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Domain.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Domain.pdb
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\EntityFramework.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Inventory.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.Optimization.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.Mvc.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.Security.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Owin.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.WebPages.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.WebPages.Razor.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.Razor.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.WebPages.Deployment.dll
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Inventory.pdb
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Inventory.dll.config
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\EntityFramework.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.Optimization.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.Mvc.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.Security.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.Security.Cookies.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.WebPages.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.WebPages.Razor.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.Razor.xml
+D:\New folder\Z and Z\Inventory\Domain\bin\Release\System.Web.WebPages.Deployment.xml
+D:\New folder\Z and Z\Inventory\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+D:\New folder\Z and Z\Inventory\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+D:\New folder\Z and Z\Inventory\Domain\obj\Release\Domain.csproj.CopyComplete
+D:\New folder\Z and Z\Inventory\Domain\obj\Release\Domain.dll
+D:\New folder\Z and Z\Inventory\Domain\obj\Release\Domain.pdb
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\Domain.dll.config
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\Domain.dll
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\Domain.pdb
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\Project\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.dll
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.pdb
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate1.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate2.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate3.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate4.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate5.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate6.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate7.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate8.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate9.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate10.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate11.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate12.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate13.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate14.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate15.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate16.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate17.resources
+C:\Users\User\Desktop\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate18.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\Domain.dll.config
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\Domain.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\Domain.pdb
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.xml
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate1.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate2.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate3.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate4.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate5.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate6.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate7.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate8.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate9.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate10.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate11.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate12.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate13.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate14.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate15.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate16.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate17.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate18.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate19.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate20.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate21.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate22.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate23.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate24.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate25.resources
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.csproj.GenerateResource.cache
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.csproj.CopyComplete
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.dll
+D:\Shakil Personal\27.03.19\Project\Inventory\Domain\obj\Release\Domain.pdb
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\obj\Release\Domain.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\obj\Release\Domain.pdb
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\Domain.dll.config
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\Domain.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\Domain.pdb
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.xml
+C:\Users\netsh\Desktop\27.03.19\Project\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+D:\Shakil Personal\30.03.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate.resources
+D:\Shakil Personal\30.03.19\Inventory\Domain\obj\Release\Domain.csproj.GenerateResource.cache
+D:\Shakil Personal\30.03.19\Inventory\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+D:\Shakil Personal\30.03.19\Inventory\Domain\obj\Release\Domain.dll
+D:\Shakil Personal\30.03.19\Inventory\Domain\obj\Release\Domain.pdb
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\Domain.dll.config
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\Domain.dll
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\Domain.pdb
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\EntityFramework.dll
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\EntityFramework.xml
+D:\Shakil Personal\30.03.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+D:\Shakil Personal\30.03.19\Inventory\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\Domain.dll.config
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\Domain.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\Domain.pdb
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.xml
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.dll
+C:\Users\netsh\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.pdb
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\Domain.dll.config
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\Domain.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\Domain.pdb
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate.resources
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.csproj.GenerateResource.cache
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.dll
+C:\Users\User\Desktop\31.03.19\Inventory\Domain\obj\Release\Domain.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\Domain.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\Domain.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\Domain.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate1.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate2.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate3.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate4.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate5.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate6.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate7.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate8.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate9.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate10.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate11.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate12.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate13.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate14.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate15.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate16.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate17.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.Migrations.InitialCreate18.resources
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.csproj.GenerateResource.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Domain\obj\Release\Domain.pdb

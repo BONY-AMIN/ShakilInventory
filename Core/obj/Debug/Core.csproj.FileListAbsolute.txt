@@ -1,0 +1,43 @@
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\Core.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\Core.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\Core.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\Domain.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\Domain.dll.config
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Debug\Core.dll
+C:\Users\User\Desktop\03.04.2019\02.04.19\Inventory\Core\obj\Debug\Core.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\Core.dll.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\Core.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\Core.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\Domain.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\EntityFramework.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\EntityFramework.SqlServer.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\Domain.pdb
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\Domain.dll.config
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\EntityFramework.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\bin\Debug\EntityFramework.SqlServer.xml
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\obj\Debug\Core.dll
+H:\Shakil MVC Recent work\08.04.19\Inventory\Core\obj\Debug\Core.pdb
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\Core.dll.config
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\Core.dll
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\Core.pdb
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\Domain.dll
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\EntityFramework.dll
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\Domain.pdb
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\Domain.dll.config
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\EntityFramework.xml
+F:\Personal\09.04.19\Inventory\Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Personal\09.04.19\Inventory\Core\obj\Debug\Core.csprojAssemblyReference.cache
+F:\Personal\09.04.19\Inventory\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+F:\Personal\09.04.19\Inventory\Core\obj\Debug\Core.csproj.CopyComplete
+F:\Personal\09.04.19\Inventory\Core\obj\Debug\Core.dll
+F:\Personal\09.04.19\Inventory\Core\obj\Debug\Core.pdb
